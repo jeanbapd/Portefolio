@@ -1,6 +1,6 @@
 # Portefolio
 
-Personal portfolio swowcasing my coding projects
+Personal portfolio showcasing my coding projects
 
 ---
 
