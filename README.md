@@ -1,12 +1,37 @@
-# Portefolio
+# Portfolio
 
-Personal portfolio swowcasing my coding projects
+Personal portfolio showcasing my coding projects
 
 ---
 
+## :technologist: About Me
+
+**Dylan JEAN-BAPTISTE**
+-  ENSIMAG - Financial Engineering (2nd year)
+-  Seeking Software Development Internship (May 2026)
+-  Passionate about coding and building things
+
+---
 ## Projects
 
-### Games & Algorithms
+### :abacus: Algorithms & Problem Solving
+
+#### [Project Euler Solutions](https://github.com/jeanbapd/Project-Euler-solutions)
+Collection of optimized solutions to mathematical and algorithmic problems from Project Euler.
+
+**Technologies:** C/C++
+
+**Highlights:**
+- 55+ problems solved with focus on algorithmic efficiency
+- Code with complexity analysis
+- Automated README generation system
+- Covers: number theory, dynamic programming, combinatorics
+
+**Status:** Active - Progressing towards 100 problems
+
+---
+
+### :game_die: Games & Interactive Applications
 
 #### [Sudoku Game](https://github.com/jeanbapd/Sudoku-pygame)
 Complete Sudoku game with puzzle generation, automatic solver using backtracking algorithm, and interactive graphical interface.
@@ -21,24 +46,26 @@ Complete Sudoku game with puzzle generation, automatic solver using backtracking
 
 **Status:** v1.0 Released - January 2026
 
-
+---
 
 ### Object-Oriented Programming 
-*Projects in this category comming soon...*
+*Projects in this category coming soon...*
 
 ---
 
-## Technical Skills
+## :gear: Technical Skills
 
-**Languages:**
-- Python 
-- Java
-- C/C++
-- SQL
+### Programming Languages
+- **Python** - Game development, algorithms, scripting
+- **Java** - Object-oriented design, GUI applications
+- **C/C++** - Performance-critical algorithms
+- **SQL** - Database design and queries
 
-**Tool & Technologies:**
-- Git/Github
-- Linux
+### Tools & Technologies
+- **Version Control:** Git, GitLab, GitHub
+- **Build Tools:** Maven, Makefile
+- **IDEs:** IntelliJ IDEA, CLion, PyCharm IDEA, VS Code
+- **Operating Systems:** Linux (Ubuntu)
 
 
 
@@ -52,10 +79,10 @@ Complete Sudoku game with puzzle generation, automatic solver using backtracking
 
 ## License
 
-This portfolio and its projects are available under licences.
+This portfolio and its projects are available under licenses.
 Check individual project repositories for specific license information.
 
 
 ---
 
-*Last update: January 2026* 
+*Last update: February 2026* 
