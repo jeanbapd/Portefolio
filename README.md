@@ -85,4 +85,4 @@ Check individual project repositories for specific license information.
 
 ---
 
-*Last update: February 2026* 
+*Last update: February 2026*
